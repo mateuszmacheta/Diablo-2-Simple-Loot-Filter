@@ -1,0 +1,1 @@
+copy "Patch_D2 - Loot filter.mpq" "Patch_D2.mpq" /Y
